@@ -1,6 +1,8 @@
-# Twitter Sentiment Analysis - Apple & Google Products : 
-## An NLP and Machine Learning Study of Public Opinion
+# Twitter Sentiment Analysis  
+## An NLP and Machine Learning Study on Public Opinion of Apple and Google Products
+
 ![photo](Images/image4.jpeg)  
+
 
 **Author:** [Vilmarson JULES](mailto:vilmarsonjules22@gmail.com)
 
@@ -194,7 +196,7 @@ For professional inquiries, collaboration opportunities, or discussions about th
 **Vilmarson JULES**  
 Data Science & AI Student  
 📧 [vilmarsonjules22@gmail.com](mailto:vilmarsonjules22@gmail.com)  
-![Vilmarson JULES – Data Science & AI Student](Images/churn2.png)
+![Vilmarson JULES – Data Science & AI Student](Images/image3.jpeg)
 
 ## Repository Structure
 
