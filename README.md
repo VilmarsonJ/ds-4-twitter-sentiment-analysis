@@ -54,7 +54,7 @@ This project analyzes public sentiment on Apple and Google products through Twit
 
 
 
-## III  🧭 Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 
 ---
 
@@ -106,7 +106,7 @@ However, the model struggles with **positive and negative tweets**, meaning it m
 
 ## Business Recommendations
 ---
-### 1. Monitor and Respond to Negative Sentiment.  
+#### 1. Monitor and Respond to Negative Sentiment.  
 ---
 
 - **Detect Customer Complaints Early:**  
@@ -115,7 +115,7 @@ Although the model struggles with negative tweets, identifying them promptly all
 - **Prioritize High-Impact Issues:**  
 By focusing on negative sentiment related to key products or services, the company can allocate resources efficiently. Not all complaints have the same urgency, so combining sentiment with context.
 
-### 2. Leverage Positive Sentiment for Marketing and Engagement.  
+#### 2. Leverage Positive Sentiment for Marketing and Engagement.  
 ---
 
 - **Amplify Customer Praise:**  
@@ -130,7 +130,7 @@ Combine churn predictions with customer lifetime value (CLV) to identify which a
 - **Return on Retention Investments :**  
 Direct retention efforts toward these customers to ensure budgets deliver the strongest financial impact, while using lighter strategies for lower-value accounts.  
 
-### 3. Leverage Sentiment Insights to Improve Customer Experience.  
+#### 3. Leverage Sentiment Insights to Improve Customer Experience.  
 ---
 
 - **Detect Pain Points Early:**  
@@ -140,7 +140,7 @@ Use the model to monitor negative sentiment in tweets to identify common complai
 By systematically addressing the most frequent negative feedback, the company can improve products, services, or support processes. This strengthens customer trust, reduces churn, and builds a positive brand image.
 
 
-### 4. Personalize Marketing and Engagement Strategies Based on Sentiment.  
+#### 4. Personalize Marketing and Engagement Strategies Based on Sentiment.  
 ---
 
 - **Tailor Communication to Customer Mood:**  
@@ -187,7 +187,7 @@ This predictive analysis offers actionable insights into customer churn for the 
 - **Integrate Insights into Operational Systems:** Embed sentiment scores and risk indicators into CRM or marketing platforms to support real-time decision-making by customer support, marketing, and management teams.
 
 
-## Full Analysis & Contact
+### Full Analysis & Contact
 ---
 Explore the complete analytical workflow in the [Jupyter Notebook](./tweets_index.ipynb) or review the [presentation slides](./TweetsInsight_Presentation.pdf) for a high-level summary key findings and actionable recommendations.
 
@@ -199,9 +199,9 @@ Data Science & AI Student
 ![Vilmarson JULES – Data Science & AI Student](Images/image3.jpeg)
 
 ## Repository Structure
-
+---
 ```
-ds-3-telecom-churn-prediction/
+ds-4-twitter-sentiment-analysis/
 │
 ├── Data/
 ├── Images/
@@ -209,7 +209,4 @@ ds-3-telecom-churn-prediction/
 ├── tweets_index.ipynb
 └── TweetsInsight_Presentation.pdf
 ```
-
-
-
 
